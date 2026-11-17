@@ -1,0 +1,12 @@
+# Build output / local artifacts
+build/
+dist/
+*.dll
+*.pdb
+build_log*.txt
+_msvc_env.bat
+
+# Local-only backups and decompiled third-party reference material
+_ref/
+_esp_backup/
+_mcm_backup/

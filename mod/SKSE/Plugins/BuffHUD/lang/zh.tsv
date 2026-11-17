@@ -1,0 +1,104 @@
+col.name	名称
+col.source	来源
+col.time	剩余时间
+debug.archetype	作用原型
+debug.avs	主属性
+debug.formid	表单 ID
+debug.mgef	法术效果
+debug.title	调试信息
+debug.uniqueId	效果实例
+detail.caster	施法者
+detail.hiddenFromUI	原版界面中隐藏的效果
+detail.inactive	暂未满足生效条件
+detail.magnitude	强度
+detail.noDescription	该效果没有提供详细说明。
+detail.remaining	剩余
+detail.school	学派
+detail.source	来源
+detail.title	详情
+filter.all	全部
+filter.buff	增益
+filter.debuff	减益
+hint.hold	长按 {0} 查看详情
+hint.release	松开收起
+panel.count	效果 {0}
+panel.empty	当前没有生效中的效果
+panel.more	另有 {0} 项
+panel.title	激活效果
+sort.name	按名称
+sort.remaining	剩余时间升序
+sort.type	减益优先
+tag.ability	常驻
+tag.blessing	祝福
+tag.disease	疾病
+tag.enchant	附魔
+tag.food	食物
+tag.potion	药水
+tag.shout	龙吼
+time.expired	已结束
+time.infinite	持续
+time.minutes	{0} 分 {1} 秒
+time.seconds	{0} 秒
+unit.player	玩家
+unit.unknown	未知
+menu.title	BuffHUD 设置
+menu.page	设置
+menu.about	BuffHUD设计创意出自 Icarus ，本人享有创意署名权，项目工程由 WorkBuddy 中转DS-V4.1 Flash & V4-Pro 完成。受众人喜爱的项目，将在三个工作日内开源。
+menu.sec.display	显示
+menu.sec.appearance	外观
+menu.sec.input	控制
+menu.sec.compat	兼容
+menu.sec.language	语言
+menu.sec.about	关于
+menu.enabled	启用面板
+menu.enabled.desc	关闭后不采集也不绘制，可随时重新打开。
+menu.maxRows	最大显示条数
+menu.maxRows.desc	超出部分折叠为「另有 N 项」，用于控制面板高度。
+menu.anchor	屏幕位置
+menu.anchor.desc	面板贴靠的屏幕角落，可与其它 HUD 模组错开。
+menu.anchor.tl	左上
+menu.anchor.tr	右上
+menu.anchor.bl	左下
+menu.anchor.br	右下
+menu.anchor.c	居中
+menu.sort	排序方式
+menu.sort.desc	列表只在数据变化时重排，切换后立即生效。
+menu.sort.remaining	剩余时间升序
+menu.sort.type	减益优先
+menu.sort.name	按名称
+menu.merge	合并同类效果
+menu.merge.desc	同一法术效果被多次施加时合并为一条并显示层数。
+menu.showTime	显示「剩余时间」栏
+menu.showTime.desc	关闭后仅显示图标与名称，适合极简风格。
+menu.showSource	显示「来源」栏
+menu.showSource.desc	来源指向施加该效果的法术、药水或装备。
+menu.hideInactive	隐藏条件未满足的效果
+menu.hideInactive.desc	部分效果挂在角色身上但当前条件为假，默认不显示。
+menu.scale	界面缩放
+menu.scale.desc	整体缩放，包含图标与文字。
+menu.opacity	背景不透明度
+menu.opacity.desc	只影响底板，图标与文字始终不透明。
+menu.theme	配色方案
+menu.theme.desc	羊皮纸偏原版风格，冷灰偏现代，高对比适合低亮度环境。
+menu.theme.parchment	羊皮纸
+menu.theme.cool	冷灰
+menu.theme.contrast	高对比
+menu.tint	按类型着色图标
+menu.tint.desc	增益为暖金、减益为绯红、中性为冷灰；关闭后统一为素白。
+menu.key	面板热键
+menu.key.desc	按住超过阈值后展开；短按切换锁定状态。
+menu.hold	长按阈值（毫秒）
+menu.hold.desc	按住多久才展开。设得过低容易误触，建议 300–450。
+menu.combatOnly	仅战斗中显示
+menu.combatOnly.desc	开启后只在战斗中显示面板；脱战立即收起，按热键也不展开。
+menu.showHidden	显示原版隐藏的效果
+menu.showHidden.desc	原版把部分技术性效果标记为不在界面显示，这里可以强制显示。
+menu.debug	调试模式
+menu.debug.desc	在详情页显示法术效果表单、原型与实例 ID，便于反馈问题。
+menu.language	界面语言
+menu.language.desc	只影响面板与详情页。
+menu.language.auto	跟随游戏语言
+menu.language.zh	简体中文
+menu.language.en	English
+menu.bind	点击绑定
+menu.binding	按下任意键…

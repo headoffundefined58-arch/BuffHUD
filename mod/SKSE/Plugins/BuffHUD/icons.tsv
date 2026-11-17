@@ -1,0 +1,27 @@
+# BuffHUD icon table: <id> <tint> <col> <row>
+cell 256
+atlas 1536 1024
+buff_up buff 0 0
+debuff_down debuff 1 0
+health vital 2 0
+magicka vital 3 0
+stamina vital 4 0
+fire damage 5 0
+frost damage 0 1
+shock damage 1 1
+poison damage 2 1
+disease damage 3 1
+armor buff 4 1
+resist buff 5 1
+speed buff 0 2
+invisibility buff 1 2
+fear debuff 2 2
+paralysis debuff 3 2
+absorb debuff 4 2
+summon neutral 5 2
+shout neutral 0 3
+enchant buff 1 3
+food buff 2 3
+curse debuff 3 3
+light neutral 4 3
+unknown neutral 5 3

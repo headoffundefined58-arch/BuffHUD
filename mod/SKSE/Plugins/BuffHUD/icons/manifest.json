@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "style": "mono-white-stroke",
+  "size": 256,
+  "stroke": "56/1024",
+  "note": "Alpha-only glyphs; tint at runtime. buff=#E5C07B debuff=#E06C75 neutral=#9FB3C8 vital=#8FBF8F damage=#D98C8C",
+  "atlas": {
+    "image": "atlas.png",
+    "cols": 6,
+    "rows": 4,
+    "cell": 256
+  },
+  "tint": {
+    "buff": "#E5C07B",
+    "debuff": "#E06C75",
+    "neutral": "#9FB3C8",
+    "vital": "#8FBF8F",
+    "damage": "#D98C8C"
+  },
+  "icons": [
+    {
+      "id": "buff_up",
+      "zh": "增益",
+      "en": "Buff",
+      "tint": "buff"
+    },
+    {
+      "id": "debuff_down",
+      "zh": "减益",
+      "en": "Debuff",
+      "tint": "debuff"
+    },
+    {
+      "id": "health",
+      "zh": "生命",
+      "en": "Health",
+      "tint": "vital"
+    },
+    {
+      "id": "magicka",
+      "zh": "法力",
+      "en": "Magicka",
+      "tint": "vital"
+    },
+    {
+      "id": "stamina",
+      "zh": "耐力",
+      "en": "Stamina",
+      "tint": "vital"
+    },
+    {
+      "id": "fire",
+      "zh": "火焰",
+      "en": "Fire",
+      "tint": "damage"
+    },
+    {
+      "id": "frost",
+      "zh": "冰霜",
+      "en": "Frost",
+      "tint": "damage"
+    },
+    {
+      "id": "shock",
+      "zh": "闪电",
+      "en": "Shock",
+      "tint": "damage"
+    },
+    {
+      "id": "poison",
+      "zh": "中毒",
+      "en": "Poison",
+      "tint": "damage"
+    },
+    {
+      "id": "disease",
+      "zh": "疾病",
+      "en": "Disease",
+      "tint": "damage"
+    },
+    {
+      "id": "armor",
+      "zh": "护甲",
+      "en": "Armor",
+      "tint": "buff"
+    },
+    {
+      "id": "resist",
+      "zh": "抗性",
+      "en": "Resistance",
+      "tint": "buff"
+    },
+    {
+      "id": "speed",
+      "zh": "速度",
+      "en": "Speed",
+      "tint": "buff"
+    },
+    {
+      "id": "invisibility",
+      "zh": "隐身",
+      "en": "Invisibility",
+      "tint": "buff"
+    },
+    {
+      "id": "fear",
+      "zh": "恐惧",
+      "en": "Fear",
+      "tint": "debuff"
+    },
+    {
+      "id": "paralysis",
+      "zh": "麻痹",
+      "en": "Paralysis",
+      "tint": "debuff"
+    },
+    {
+      "id": "absorb",
+      "zh": "吸取",
+      "en": "Absorb",
+      "tint": "debuff"
+    },
+    {
+      "id": "summon",
+      "zh": "召唤",
+      "en": "Summon",
+      "tint": "neutral"
+    },
+    {
+      "id": "shout",
+      "zh": "龙吼",
+      "en": "Shout",
+      "tint": "neutral"
+    },
+    {
+      "id": "enchant",
+      "zh": "附魔",
+      "en": "Enchantment",
+      "tint": "buff"
+    },
+    {
+      "id": "food",
+      "zh": "食物",
+      "en": "Food",
+      "tint": "buff"
+    },
+    {
+      "id": "curse",
+      "zh": "诅咒",
+      "en": "Curse",
+      "tint": "debuff"
+    },
+    {
+      "id": "light",
+      "zh": "光照",
+      "en": "Light",
+      "tint": "neutral"
+    },
+    {
+      "id": "unknown",
+      "zh": "未知",
+      "en": "Unknown",
+      "tint": "neutral"
+    }
+  ]
+}

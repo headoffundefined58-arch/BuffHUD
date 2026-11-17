@@ -1,0 +1,104 @@
+col.name	Name
+col.source	Source
+col.time	Duration
+debug.archetype	Archetype
+debug.avs	Actor value
+debug.formid	Form ID
+debug.mgef	Magic effect
+debug.title	Debug
+debug.uniqueId	Instance
+detail.caster	Caster
+detail.hiddenFromUI	Hidden by the game UI flag
+detail.inactive	Conditions not currently met
+detail.magnitude	Magnitude
+detail.noDescription	This effect has no description.
+detail.remaining	Remaining
+detail.school	School
+detail.source	Source
+detail.title	Details
+filter.all	All
+filter.buff	Buffs
+filter.debuff	Debuffs
+hint.hold	Hold {0} for details
+hint.release	Release to close
+panel.count	Effects {0}
+panel.empty	No active effects
+panel.more	{0} more
+panel.title	Active Effects
+sort.name	Name
+sort.remaining	Time remaining
+sort.type	Debuffs first
+tag.ability	Ability
+tag.blessing	Blessing
+tag.disease	Disease
+tag.enchant	Enchantment
+tag.food	Food
+tag.potion	Potion
+tag.shout	Shout
+time.expired	expired
+time.infinite	constant
+time.minutes	{0}m {1}s
+time.seconds	{0}s
+unit.player	Player
+unit.unknown	Unknown
+menu.title	BuffHUD Settings
+menu.page	Settings
+menu.about	BuffHUD设计创意出自 Icarus ，本人享有创意署名权，项目工程由 WorkBuddy 中转DS-V4.1 Flash & V4-Pro 完成。受众人喜爱的项目，将在三个工作日内开源。
+menu.sec.display	Display
+menu.sec.appearance	Appearance
+menu.sec.input	Controls
+menu.sec.compat	Compatibility
+menu.sec.language	Language
+menu.sec.about	About
+menu.enabled	Enable panel
+menu.enabled.desc	When off, nothing is collected or drawn. Re-enable any time.
+menu.maxRows	Maximum rows
+menu.maxRows.desc	Extra effects collapse into a '+N' row to keep the panel compact.
+menu.anchor	Screen anchor
+menu.anchor.desc	Which corner the panel sticks to, so it can avoid other HUD mods.
+menu.anchor.tl	Top left
+menu.anchor.tr	Top right
+menu.anchor.bl	Bottom left
+menu.anchor.br	Bottom right
+menu.anchor.c	Centre
+menu.sort	Sort order
+menu.sort.desc	The list is only re-sorted when data changes; switching applies immediately.
+menu.sort.remaining	Time remaining
+menu.sort.type	Debuffs first
+menu.sort.name	Name
+menu.merge	Merge duplicate effects
+menu.merge.desc	Stack the same magic effect into one row and show the stack count.
+menu.showTime	Show 'Duration' column
+menu.showTime.desc	Turn off for a minimal icon-and-name layout.
+menu.showSource	Show 'Source' column
+menu.showSource.desc	Source is the spell, potion or item that applied the effect.
+menu.hideInactive	Hide effects with unmet conditions
+menu.hideInactive.desc	Some effects sit on the actor while their conditions are false; hidden by default.
+menu.scale	UI scale
+menu.scale.desc	Scales icons and text together.
+menu.opacity	Background opacity
+menu.opacity.desc	Affects the backdrop only; icons and text stay fully opaque.
+menu.theme	Colour theme
+menu.theme.desc	Parchment is close to vanilla, cool grey is modern, high contrast suits dim rooms.
+menu.theme.parchment	Parchment
+menu.theme.cool	Cool grey
+menu.theme.contrast	High contrast
+menu.tint	Tint icons by type
+menu.tint.desc	Buffs amber, debuffs crimson, neutral slate. Off renders everything bone white.
+menu.key	Panel hotkey
+menu.key.desc	Hold past the threshold to open; a short tap toggles the pinned state.
+menu.hold	Hold threshold (ms)
+menu.hold.desc	How long to hold before the panel opens. 300-450 is a good range.
+menu.combatOnly	Show in combat only
+menu.combatOnly.desc	Show the panel only while the player is in combat; it collapses the moment the fight ends.
+menu.showHidden	Show effects hidden by the game
+menu.showHidden.desc	Vanilla flags some technical effects as hidden in the UI; force them visible.
+menu.debug	Debug mode
+menu.debug.desc	Shows the magic effect form, archetype and instance ID in the details pane.
+menu.language	UI language
+menu.language.desc	Affects the panel and details pane only.
+menu.language.auto	Follow game language
+menu.language.zh	简体中文
+menu.language.en	English
+menu.bind	Click to bind
+menu.binding	Press any key…
